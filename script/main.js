@@ -1,4 +1,4 @@
-trigger to play music in the background with sweetalert
+// trigger to play music in the background with sweetalert
 window.addEventListener("load", () => {
   Swal.fire({
     title: "Mau pake musik ngga, Non?",
